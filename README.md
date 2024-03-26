@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Study Website</title>
+    <title>Tinnis English Care</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Study Website</h1>
+        <h1>Tinnis English Care</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -26,11 +26,11 @@
 
         <section id="about">
             <h2>About Us</h2>
-            <p>We are a team of educators dedicated to providing high-quality study resources.</p>
+            <p>Hello Im TANZILA TABASSUM TINNI.currently Im studying in BRIGHT SCHOOL AND COLLAGE in class 9.You can join us,we can take care of your English</p>
         </section>
 
         <section id="contact">
-            <h2>Contact Us</h2>
+            <h2>Contact Us insta _strawry_</h2>
             <p>If you have any questions or feedback, feel free to contact us.</p>
             <form>
                 <label for="name">Name:</label><br>
